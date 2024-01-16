@@ -1,0 +1,31 @@
+h1 {
+    color: mediumpurple;background-color: yellow; text-align: right;
+}
+li {
+    font-weight: bold;
+    color: red;
+    font-size: 2em;
+    font-family: 'Karla', sans-serif;
+}
+#facts {
+    font-family: Gotham;
+}
+@media only screen and (max-width: 600px) {
+
+}
+body {
+    background: #FFCC00;
+    font-family: 'Karla', sans-serif;
+}
+h1 {
+    color: #500049;
+    background-color: yellow;
+    font-family: 'Karla', sans-serif;
+    text-align: right;
+}
+img {
+    max-width: 50%;
+}
+@media only screen and (max-width: 600px) {
+
+}
